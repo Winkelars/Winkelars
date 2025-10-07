@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hallo, ich bin Lars 👋
 
-<!--
-**Winkelars/Winkelars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fachinformatiker für Systemintegration**  
+Absolvent & aktuell auf Jobsuche
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+
+- 👨‍💻 Gerade meine Ausbildung abgeschlossen und bereit für neue Herausforderungen
+- 🐍 **Python**-Enthusiast für Scripting aller Art
+- 🎨 **TailwindCSS**-Fan für modernes Webdesign
+- 💡 Möchte **Golang** für Webserver-Entwicklung lernen
+- 🤖 Mein Lieblingsprojekt: [untisGimmeWeekReports](https://github.com/Winkelars/untisGimmeWeekReports)  
+  → Ein Crawler, der das Erstellen von Ausbildungs-Wochenberichten automatisiert
+
+---
+
+## 🌱 Aktuell lerne ich
+
+- **Golang**: Effiziente Backend-Entwicklung
+- Neue Wege, Coding mit Kreativität zu verbinden
+
+---
+
+## 📫 Kontakt & Socials
+
+- 🌐 [Website](https://larsw.net)
+- 💼 [LinkedIn](https://www.linkedin.com/in/larswinkel98/)
+- 📸 [Instagram](https://www.instagram.com/larsvonderinsel/)
+
+---
+
+## ⚡ Fun Fact
+
+Ich trinke mehr Kaffee als mein Code Zeilen hat. ☕
+
+---
+
+_Du suchst jemanden mit technischem Know-how, Authentizität und Leidenschaft für smarte Automatisierung? Schreib mir einfach!_
