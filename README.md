@@ -1,13 +1,11 @@
 # Hallo, ich bin Lars 👋
 
 **Fachinformatiker für Systemintegration**  
-Absolvent & aktuell auf Jobsuche
 
 ---
 
 ## 🚀 Über mich
 
-- 👨‍💻 Gerade meine Ausbildung abgeschlossen und bereit für neue Herausforderungen
 - 🐍 **Python**-Enthusiast für Scripting aller Art
 - 🎨 **TailwindCSS**-Fan für modernes Webdesign
 - 💡 Möchte **Golang** für Webserver-Entwicklung lernen
@@ -33,7 +31,7 @@ Absolvent & aktuell auf Jobsuche
 
 ## ⚡ Fun Fact
 
-Ich trinke mehr Kaffee als mein Code Zeilen hat. ☕
+_Diese Datei ist offensichtlich via LLM erstellt worden!_
 
 ---
 
