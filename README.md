@@ -31,7 +31,7 @@
 
 ## ⚡ Fun Fact
 
-*Diese Datei ist offensichtlich via LLM erstellt worden!*
+**Diese Datei ist offensichtlich via LLM erstellt worden!**
 
 ---
 
