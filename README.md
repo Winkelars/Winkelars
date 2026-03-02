@@ -5,7 +5,7 @@ Ich bin Lars!
 
 - ⚓️ Ich komme aus Nordfriesland von Nordstrand
 - 🎓️ Ich bin seit 2025 ausgebildeter Fachinformatiker für Systemintegration
-- 👨‍💻 Ich code seit Anfang meiner Ausbildung 2023 permanent dabei, irgendwelchen Hobbyprojekte umzusetzen
+- 👨‍💻 Ich code seit Anfang meiner Ausbildung 2023 und bin seitdem permanent dabei, irgendwelchen Hobbyprojekte umzusetzen
 - 🤖 Eins meiner Lieblingsprojekte bis jetzt: [untisGimmeWeekReports](https://github.com/Winkelars/untisGimmeWeekReports)  
   → Ein Crawler, der mir für die Ausbildung automatisch Wochenberichte von Berufsschulblöcken generiert hat, indem er öffentliche Notizen von Lehrern auf Webuntis in eine Exceltabelle bündelt
 
