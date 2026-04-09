@@ -21,7 +21,7 @@ Ich bin Lars!
 ![](https://api.boot.dev/v1/users/public/1d685582-71d6-4cf9-83c4-e06961e27aa4/thumbnail)
 
 Boot.dev ist eine Sammlung von Programmierkursen, bei der man für jede abgeschlossene Aufgabe ein bisschen (und für jeden abgeschlossenen Kurs eine Menge) Erfahrungspukte bekommt. 
-Die Themen gehen zum Teil recht tief, und da es bis jetzt ca. 1,1 Millionen Benutzerregistrierungen gaben, scheinen die Macher vieles richtig zu machen.
+Die Themen gehen zum Teil recht tief. Und da es bis jetzt ca. 1,1 Millionen Benutzerregistrierungen gab, sieht es so aus, als wäre das kein schlechtes Erfolgsrezept.
 
 ## 📫 Kontakt & Socials
 
