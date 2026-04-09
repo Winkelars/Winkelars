@@ -19,8 +19,9 @@ Ich bin Lars!
 
 ## 🐻🪄 [Boot.dev](https://www.boot.dev/about)-Profil:
 ![](https://api.boot.dev/v1/users/public/1d685582-71d6-4cf9-83c4-e06961e27aa4/thumbnail)
-***Boot.dev ist eine Sammlung von Programmierkursen, bei der man für jede abgeschlossene Aufgabe ein bisschen (und für jeden abgeschlossenen Kurs eine Menge) Erfahrungspukte bekommt. 
-Die Themen gehen zum Teil recht tief, und bei der Summe von 1 Millionen Benutzerregistrierungen müssen die Macher ja scheinbar irgendwas richtig machen***
+
+Boot.dev ist eine Sammlung von Programmierkursen, bei der man für jede abgeschlossene Aufgabe ein bisschen (und für jeden abgeschlossenen Kurs eine Menge) Erfahrungspukte bekommt. 
+Die Themen gehen zum Teil recht tief, und bei der Summe von 1 Millionen Benutzerregistrierungen müssen die Macher ja scheinbar irgendwas richtig machen
 
 ## 📫 Kontakt & Socials
 
