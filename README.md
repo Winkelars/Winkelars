@@ -7,16 +7,20 @@ Ich bin Lars!
 - 🎓️ Ich bin seit 2025 ausgebildeter Fachinformatiker für Systemintegration
 - 👨‍💻 Ich code seit Anfang meiner Ausbildung 2023 und bin seitdem permanent dabei, an irgendwelchen Hobbyprojekten zu basteln
 - 🤖 Eins meiner Lieblingsprojekte bis jetzt: [untisGimmeWeekReports](https://github.com/Winkelars/untisGimmeWeekReports)  
-  → Ein Crawler, der mir für die Ausbildung automatisch Wochenberichte von Berufsschulblöcken generiert hat, indem er öffentliche Notizen von Lehrern auf Webuntis in eine Exceltabelle bündelt
+  → Ein WebCrawler, der mir beim Berichtsheft geholfen hat
+    *(Lehrer notieren Inhalte ihrer Stunden bei Webuntis -> Crawler lädt Notizen über einen auth. Account automatisch herunter und speichert sie via **Pandas** als Excel -> Aus den Daten werden Wochenberichte erzeugt)*
 
 ## 🌱 Aktuell lerne ich
 
 - Golang: Die Open Source Programmiersprache, ins Leben gerufen von Google Llc
 - Embedded-Programming-Basics mit meinem `ESP32-S3-DevKitC-1-N16R8` in Kombination mit C#, Tinygo und Circuitpython
-- Wie man Linkedin-Puzzle per Script für sich lösen lässt, um Linkedin-Kontakte auf höchstethische Weise zu beeindrucken
+- Wie man bei Linkedin-Puzzles über selbstgeschriebene Scripte schummeln kann, um seine Kontakte zu beeindrucken
+  *(Findest du unethisch? Fair. Aber noch habe ich eigentlich nicht geschummelt, sondern es nur versucht)*
 
 ## 🐻🪄 [Boot.dev](https://www.boot.dev/about)-Profil:
 ![](https://api.boot.dev/v1/users/public/1d685582-71d6-4cf9-83c4-e06961e27aa4/thumbnail)
+***Boot.dev ist eine Sammlung von Programmierkursen, bei der man für jede abgeschlossene Aufgabe ein bisschen (und für jeden abgeschlossenen Kurs eine Menge) Erfahrungspukte bekommt. 
+Die Themen gehen zum Teil recht tief, und bei der Summe von 1 Millionen Benutzerregistrierungen müssen die Macher ja scheinbar irgendwas richtig machen***
 
 ## 📫 Kontakt & Socials
 
